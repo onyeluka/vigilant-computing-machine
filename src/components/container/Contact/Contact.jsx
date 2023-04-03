@@ -63,7 +63,7 @@ const Contact = () => {
             transition={{ duration: 0.3 }}
             className="btn"
           >
-            <a href="#">Send</a>
+            <a href="https://kiw6s48wfx1.typeform.com/to/iqxgjUL3">Send</a>
           </motion.div>
         </motion.div>
       </div>
