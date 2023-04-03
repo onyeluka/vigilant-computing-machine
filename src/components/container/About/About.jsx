@@ -51,8 +51,9 @@ const About = () => {
               </div>
             );
           })}
+
           <motion.a
-            href="#"
+            href="https://drive.google.com/file/d/14oiXIfwUPUNE6s0Aopn43Mm2d2iEEyff/view?usp=sharing"
             download=""
             whileHover={{ scale: 1.1 }}
             transition={{ duration: 0.3 }}
